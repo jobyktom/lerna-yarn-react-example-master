@@ -1,2 +1,9 @@
 node_modules
 yarn.lock
+
+packages/common-utils/package-lock.json
+packages/product-one/.env
+packages/product-one/package-lock.json
+packages/product-one/yarn.lock
+packages/ui-components/package-lock.json
+packages/product-one/yarn.lock
